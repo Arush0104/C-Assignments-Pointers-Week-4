@@ -1,0 +1,1 @@
+p is a pointer while q is an integer. * operator is only viable with variables not data types.
